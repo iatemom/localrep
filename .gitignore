@@ -1,17 +1,18 @@
+# временные и системные файлы windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 *.lnk
-
+# временные и системные файлы macos
 .DS_Store
 .AppleDouble
 .LSOverride
 ._*
-
+# временные и системные файлы linux
 *~
 .directory
-
+# бэкапы и временные файлы редактор
 *.bak
 *.tmp
 *.temp
